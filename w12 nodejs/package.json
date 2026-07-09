@@ -1,0 +1,18 @@
+{
+  "name": "server-informasi-kampus",
+  "version": "1.0.0",
+  "description": "Mini project praktikum Node.js: Server Informasi Kampus menggunakan modul http bawaan Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "server",
+    "kampus",
+    "praktikum"
+  ],
+  "author": "",
+  "license": "ISC"
+}
